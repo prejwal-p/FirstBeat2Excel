@@ -1,1 +1,1 @@
-# Firstbeat2Excel
+# FirstBeat2Excel
